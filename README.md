@@ -5,3 +5,4 @@
 - Anirudh Sharma finds the Community Classroom initiative really great!
 - suvodip patra says that this community is very helpfull.
   -ok thank you
+  -this couse help me to understand git very clearly
